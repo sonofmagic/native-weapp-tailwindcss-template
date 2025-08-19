@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+>
+> `@weapp-tailwindcss/cli` 已经废弃，推荐使用下一代小程序构建工具 [`weapp-vite`](https://vite.icebreaker.top/)
+>
+> 原因详见 https://github.com/sonofmagic/weapp-tailwindcss/discussions/687
+
 # weapp-tailwindcss 的原生 typescript 模板
 
 使用微信开发者工具直接打开即可
